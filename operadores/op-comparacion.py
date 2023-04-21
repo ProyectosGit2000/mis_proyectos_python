@@ -18,7 +18,6 @@ c = 10
 
 comparacion = a + b == c
 print(comparacion)
-
 #comparando contraseñas
 contraseña_ingresada = "jordichavarry"
 contraseña_guardada = "jordichavarry"
